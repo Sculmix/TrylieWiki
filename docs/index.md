@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "RoyaleRP"
+  name: "TrylieWiki"
   text: "База знаний майнкрафт сервера"
-  tagline: Википедия содержащая в себе всё что нужно для приятной игры на RoyaleRP
+  tagline: Википедия содержащая в себе всё что нужно для приятной игры на TrylieWiki
   image:
     src: /512.webp
-    alt: RoyaleRP
+    alt: TrylieWiki
   actions:
     - theme: brand
       text: Начать

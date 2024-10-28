@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
-  title: "Royale Wiki",
-  description: "База знаний майнкрафт сервера RoyaleRP",
+  title: "TrylieWiki",
+  description: "База знаний майнкрафт сервера TrylieWorld",
   themeConfig: {
     outline: {
       label: "На этой странице",
@@ -14,15 +14,15 @@ export default defineConfig({
     nav: [
       // { text: 'Home', link: '/' },
       {
-        text: 'RoyaleRP',
+        text: 'TrylieWorld',
         items: [
           {
             // You may also omit the title.
             items: [
-              { text: 'Основной сайт', link: 'https://royalerp.ru' },
-              { text: 'Discord', link: 'https://discord.gg/ymYpxTr436' },
-              { text: 'Вконтакте', link: 'https://vk.com/royalerp1' },
-              { text: 'Telegram', link: 'https://telegram' },
+              { text: 'Основной сайт', link: 'https://TrylieWorld' },
+              { text: 'Discord', link: 'https://discord.gg/TrylieWorld' },
+              { text: 'Вконтакте', link: 'https://vk.com/TrylieWorld' },
+              { text: 'Telegram', link: 'https://TrylieWorld' },
             ]
           }
         ]
@@ -40,7 +40,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/RoyaleRP' }
+      { icon: 'github', link: 'https://github.com/TrylieWorld' }
     ]
   }
 })
